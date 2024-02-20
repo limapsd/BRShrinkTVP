@@ -6,7 +6,7 @@ library("dplyr")
 library("gplots")
 library("bvarsv")
 # Load Data:
-setwd("D:/Material - Mestrado FEA-RP/Disciplinas/3º Semestre/Econometria Bayesiana/Pesquisa")
+
 load("BRinf.rda")
 
 # Setting the Dataframe
